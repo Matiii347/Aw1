@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Matias" ,
+        "apellido": "Funes",
+        "puesto": "Camarista"
+    },
+    {
+        "id": 2,
+        "nombre": "Martin" ,
+        "apellido": "Torres",
+        "puesto": "Contador"
+    },
+    {
+        "id": 3,
+        "nombre": "Marcelo" ,
+        "apellido": "Gastiarena",
+        "puesto": "Dueño"
+    },
+    {
+        "id": 4,
+        "nombre": "Manudo" ,
+        "apellido": "Carrizo",
+        "puesto": "Chofer"
+    },
+    {
+        "id": 5,
+        "nombre": "Guaso" ,
+        "apellido": "Carrizo",
+        "puesto": "Compañero Chofer"
+    },
+    {
+        "id": 6,
+        "nombre": "Gonchi" ,
+        "apellido": "Delgado",
+        "puesto": "Chofer"
+    },
+    {
+        "id": 7,
+        "nombre": "Lucas" ,
+        "apellido": "Pizarro",
+        "puesto": "Compañero Chofer"
+    },
+    {
+        "id": 8,
+        "nombre": "Chipaca" ,
+        "apellido": "Rodriguez",
+        "puesto": "Camarista"
+    }
+]

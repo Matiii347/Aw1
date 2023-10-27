@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cajon de Pollo",
+        "desc":"20 kg de pollo congelado" ,
+        "precio":10.000
+    },
+    {
+        "id": 2,
+        "nombre": "Cajon de Cuarto de Pollo",
+        "desc":"20 kg de patas de pollo congeladas" ,
+        "precio":10.000
+    },
+    {
+        "id": 3,
+        "nombre": "Cajon de Pechuga",
+        "desc":"20 kg de pechuga congelada" ,
+        "precio":20.000
+    },
+    {
+        "id": 4,
+        "nombre": "Cajon de Pechuga B",
+        "desc":"20 kg de pechuga B congelada" ,
+        "precio":18.000
+    },
+    {
+        "id": 5,
+        "nombre": "Cajon de Filet de Muslo",
+        "desc":"20 kg de Muslo de pollo deshuesado congelado" ,
+        "precio":15.000
+    },
+    {
+        "id": 6,
+        "nombre": "Cajon de Ala de Pollo",
+        "desc":"20 kg de alas congeladas" ,
+        "precio":12.000
+    },
+    {
+        "id": 7,
+        "nombre": "Cajon de Carne Molida de Pollo",
+        "desc":"20 kg de Carne Molida de pollo congelado" ,
+        "precio":7.000
+    },
+    {
+        "id": 8,
+        "nombre": "Cajon de Pechugin de Pollo",
+        "desc":"20 kg de Pechugin pollo congelado" ,
+        "precio":16.000
+    },
+    {
+        "id": 9,
+        "nombre": "Rebozados Inal",
+        "desc":"Patitas de pollo,medallones de pollo,patitas y medallones con jamon y queso,medallones de merluza,medallones de merluza espinaca y queso,suprema de merluza,milas de soja,etc" ,
+        "precio":5.000
+    }
+]
